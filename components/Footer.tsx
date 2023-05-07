@@ -19,7 +19,7 @@ const Footer: FC<Props> = (props) => (
         spacing={[1, null, 2]}
         {...props}
     >
-        <Link href="https://github.com/thedaviddelta/lingva-translate/blob/main/LICENSE" isExternal={true}>
+        <Link href="https://github.com/MIKEINTOSHSYSTEMS/mikeintosh-translator/blob/main/LICENSE" isExternal={true}>
             {/*<Text as="span">&#169; 2021 thedaviddelta & contributors</Text>*/}
             <Text as="span">&#169; 2023 MIKEINTOSH SYSTEMS </Text>
         </Link>

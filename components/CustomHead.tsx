@@ -8,7 +8,7 @@ type Props = {
     home?: boolean
 };
 
-const title = "Lingva Translate";
+const title = "MIKEINTOSH Translator";
 const description = "Alternative front-end for Google Translate, serving as a Free and Open Source translator with over a hundred languages available";
 
 const siteDomain = process.env["NEXT_PUBLIC_SITE_DOMAIN"];

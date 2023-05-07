@@ -1,28 +1,28 @@
 {
-  "name": "Lingva Translate",
-  "short_name": "Lingva",
+  "name": "MIKEINTOSH Translator",
+  "short_name": "MIKEINTOSH",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
   "lang": "en",
   "icons": [
     {
-      "src": "/favicon-192x192.png",
+      "src": "/mikeintosh.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "/favicon-512x512.png",
+      "src": "/mikeintosh.png",
       "type": "image/png",
       "sizes": "512x512"
     },
     {
-      "src": "/favicon-maskable.png",
+      "src": "/mikeintosh.png",
       "type": "image/png",
       "sizes": "512x512",
       "purpose": "maskable"
     }
   ],
-  "background_color": "#bde3cb",
-  "theme_color": "#bde3cb"
+  "background_color": "#0047A3",
+  "theme_color": "#00377B"
 }
