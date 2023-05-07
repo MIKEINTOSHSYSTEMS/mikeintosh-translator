@@ -32,11 +32,12 @@ const Header: FC<Props> = (props) => (
                         //src={useColorModeValue("/banner_light.svg", "/banner_dark.svg")}
                         src={useColorModeValue("/mikeintosh.png", "/mikeintosh.png")}
                         alt="Logo"
-                        width={110}
-                        height={64}
+                        width={70}
+                        height={70}
                     />
                 </Link>
             </NextLink>
+            <Text>MIKEINTOSH Translator</Text>
             <HStack spacing={3}>
                 <ColorModeToggler
                     variant={useColorModeValue("outline", "solid")}
