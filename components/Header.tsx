@@ -29,7 +29,8 @@ const Header: FC<Props> = (props) => (
             <NextLink href="/" passHref={true}>
                 <Link display="flex">
                     <Image
-                        src={useColorModeValue("/banner_light.svg", "/banner_dark.svg")}
+                        //src={useColorModeValue("/banner_light.svg", "/banner_dark.svg")}
+                        src={useColorModeValue("/mikeintosh.png", "/mikeintosh.png")}
                         alt="Logo"
                         width={110}
                         height={64}
