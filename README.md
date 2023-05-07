@@ -1,4 +1,4 @@
-# Lingva Translate
+# MIKEINTOSH Translator
 
 <img src="public/logo.svg" width="128" align="right">
 
