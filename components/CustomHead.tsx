@@ -19,7 +19,7 @@ const CustomHead: FC<Props> = ({ customTitle, home }) => {
         ? `${customTitle} | ${title}`
         : title;
 
-    const themeColor = useColorModeValue(theme.colors.lingva["100"], theme.colors.lingva["900"]);
+    const themeColor = useColorModeValue(theme.colors.lingva["100"], theme.colors.lingva["900"]); 
 
     return (
         <Head>

@@ -24,7 +24,7 @@ const LangSelect: FC<Props> = ({ value, onChange, langs, detectedSource, ...prop
     >
         {Object.entries(langs).map(([code, name]) => (
             <option value={code} key={code}>
-                {name}{code === "auto" && !!detectedSource && ` (${langs[detectedSource]})`}
+                {name}{code === "en" && !!detectedSource && ` (${langs["ti"]})`}
             </option>
         ))}
     </Select>
