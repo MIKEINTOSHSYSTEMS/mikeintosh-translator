@@ -17,7 +17,7 @@ export default extendTheme({
     colors: {
         lingva: {
             50: "#e7f5ed",
-            100: "#bde3cb",
+            100: "#FFFFFF",
             200: "#92d1ab",
             300: "#64c08a",
             400: "#3cb372",
@@ -25,7 +25,7 @@ export default extendTheme({
             600: "#009750",
             700: "#008544",
             800: "#007439",
-            900: "#005525"
+            900: "#0047A3"
         }
     },
     config: {
