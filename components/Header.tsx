@@ -37,7 +37,7 @@ const Header: FC<Props> = (props) => (
                     />
                 </Link>
             </NextLink>
-            <Text>MIKEINTOSH Translator</Text>
+            
             <HStack spacing={3}>
                 <ColorModeToggler
                     variant={useColorModeValue("outline", "solid")}
