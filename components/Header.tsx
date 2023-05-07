@@ -40,9 +40,7 @@ const Header: FC<Props> = (props) => (
             </NextLink>
 
 
-    <Text style={{ fontSize: 24, color: 'white', textAlign: 'center' }}>MIKEINTOSH Translator</Text>
-
-export default Header;
+    <Text style={{ fontSize: 27, color: 'white', textAlign: 'center' }}>MIKEINTOSH Translator</Text>
             
             <HStack spacing={3}>
                 <ColorModeToggler
