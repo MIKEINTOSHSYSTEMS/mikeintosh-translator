@@ -28,9 +28,9 @@ const CustomHead: FC<Props> = ({ customTitle, home }) => {
             <meta name="robots" content={home ? "index,follow" : "noindex,nofollow"} />
             {home && <link rel="canonical" href={url} />}
 
-            <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
-            <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
-            <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+            <link rel="icon" type="image/png" sizes="32x32" href="/mikeintoshfavi.png" />
+            <link rel="icon" type="image/png" sizes="16x16" href="/mikeintoshfavi.png" />
+            <link rel="apple-touch-icon" href="/mikeintoshfavi.png" />
 
             <link rel="manifest" href="/manifest.json" />
             <meta name="theme-color" content={themeColor} />
@@ -41,7 +41,7 @@ const CustomHead: FC<Props> = ({ customTitle, home }) => {
             <meta property="og:url" content={url} />
             <meta property="og:locale" content="en" />
 
-            <meta property="og:image" content={`${url}/favicon-512x512.png`} />
+            <meta property="og:image" content={`${url}/mikeintoshfavi.png`} />
             <meta property="og:image:type" content="image/png" />
             <meta property="og:image:width" content="512" />
             <meta property="og:image:height" content="512" />
