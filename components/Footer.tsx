@@ -20,7 +20,8 @@ const Footer: FC<Props> = (props) => (
         {...props}
     >
         <Link href="https://github.com/thedaviddelta/lingva-translate/blob/main/LICENSE" isExternal={true}>
-            <Text as="span">&#169; 2021 thedaviddelta & contributors</Text>
+            {/*<Text as="span">&#169; 2021 thedaviddelta & contributors</Text>*/}
+            <Text as="span">&#169; 2023 MIKEINTOSH SYSTEMS </Text>
         </Link>
         <Text as="span" display={["none", null, "unset"]}>·</Text>
         <Link href="https://www.gnu.org/licenses/agpl-3.0.html" isExternal={true}>
