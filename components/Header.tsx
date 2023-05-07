@@ -13,8 +13,8 @@ type Props = {
 const Header: FC<Props> = (props) => (
     <>
         <Head>
-            <link rel="prefetch" href="/banner_light.svg" />
-            <link rel="prefetch" href="/banner_dark.svg" />
+            <link rel="prefetch" href="/mikeintosh.png" />
+            <link rel="prefetch" href="/mikeintosh.png" />
         </Head>
 
         <Flex
