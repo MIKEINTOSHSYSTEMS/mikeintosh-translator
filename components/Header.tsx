@@ -40,7 +40,7 @@ const Header: FC<Props> = (props) => (
             </NextLink>
 
 
-    <Text style={{ fontSize: 27, color: 'white', textAlign: 'center' }}>MIKEINTOSH Translator</Text>
+    <Text style={{ fontSize: 27, color: 'grey', textAlign: 'center' }}>MIKEINTOSH Translator</Text>
             
             <HStack spacing={3}>
                 <ColorModeToggler
