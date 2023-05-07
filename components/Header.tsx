@@ -5,6 +5,7 @@ import { Flex, HStack, IconButton, Link, useColorModeValue } from "@chakra-ui/re
 import { FaGithub } from "react-icons/fa";
 import Image from "next/image";
 import { ColorModeToggler } from ".";
+import { Stack, Text } from "@chakra-ui/react";
 
 type Props = {
     [key: string]: any
@@ -37,6 +38,11 @@ const Header: FC<Props> = (props) => (
                     />
                 </Link>
             </NextLink>
+
+
+    <Text style={{ fontSize: 24, color: 'white', textAlign: 'center' }}>MIKEINTOSH Translator</Text>
+
+export default Header;
             
             <HStack spacing={3}>
                 <ColorModeToggler
