@@ -82,6 +82,7 @@ These are the currently known *Lingva* instances. Feel free to make a Pull Reque
 
 | Domain                                                                      | Hosting                                   | SSL Provider                                                                                    |
 |:---------------------------------------------------------------------------:|:-----------------------------------------:|:-----------------------------------------------------------------------------------------------:|
+| [mikeintosh-translator-94ac.vercel.app](https://mikeintosh-translator-94ac.vercel.app/) (MIKEINTOSH)                                  | [Vercel](https://vercel.com/)             | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=mikeintosh%2dtranslator%2d94ac.vercel.app&latest)                       |
 | [lingva.ml](https://lingva.ml/) (Official)                                  | [Vercel](https://vercel.com/)             | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=lingva.ml)                       |
 | [translate.igna.wtf](https://translate.igna.wtf/)                           | [Vercel](https://vercel.com/)             | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=translate.igna.wtf)              |
 | [translate.plausibility.cloud](https://translate.plausibility.cloud/)       | [Hetzner](https://hetzner.com/)           | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=translate.plausibility.cloud)    |
